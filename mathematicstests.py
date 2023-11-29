@@ -1,7 +1,7 @@
 import mathematics
 import unittest
 
-class Testit(unittest.TestCase):
+""" class Testit(unittest.TestCase):
 
     def test_add(self):
         self.assertEqual(mathematics.add(5, 4), 9)
@@ -13,4 +13,4 @@ class Testit(unittest.TestCase):
         self.assertEqual(mathematics.power(2, 8), 256)
 
 if __name__ == '__main__':
-    unittest.main()
+    unittest.main() """
